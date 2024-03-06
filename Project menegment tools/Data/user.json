@@ -1,0 +1,50 @@
+[
+  {
+    "FirstName": "Ahmadjon",
+    "LastName": "Xolmirzayev",
+    "Email": "haad@gmail.com",
+    "Password": "dotnet",
+    "Role": 1,
+    "Id": 1,
+    "CreatedAt": "2024-02-04T18:17:59.315635Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": true
+  },
+  {
+    "FirstName": "asad",
+    "LastName": "asad",
+    "Email": "asad@gmail.com",
+    "Password": "123456789",
+    "Role": 2,
+    "Id": 2,
+    "CreatedAt": "2024-02-04T18:17:59.315635Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "2024-02-04T19:26:49.1232656Z",
+    "IsDeleted": false
+  },
+  {
+    "FirstName": "Ali",
+    "LastName": "Ali",
+    "Email": "ali@gmail.com",
+    "Password": "ali",
+    "Role": 3,
+    "Id": 3,
+    "CreatedAt": "2024-02-04T18:45:36.2042375Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "0001-01-01T00:00:00",
+    "IsDeleted": false
+  },
+  {
+    "FirstName": "asd",
+    "LastName": "asdfs",
+    "Email": "sasd@gmail.com",
+    "Password": "sfedw",
+    "Role": 3,
+    "Id": 4,
+    "CreatedAt": "2024-02-04T19:09:31.6082078Z",
+    "UpdatedAt": "0001-01-01T00:00:00",
+    "DeletedAt": "2024-02-04T19:26:34.2208013Z",
+    "IsDeleted": false
+  }
+]
