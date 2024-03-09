@@ -16,5 +16,5 @@ public abstract class Auditable
 
     public DateTime DeletedAt { get; set; }
 
-    public bool IsDeleted { get; set; } = false ;
+    public bool IsDeleted { get; set; }
 }
