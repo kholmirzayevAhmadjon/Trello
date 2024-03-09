@@ -8,6 +8,7 @@ namespace Project_menegment_tools.Models.Commons;
 
 public abstract class Auditable
 {
+    //
     public long Id { get; set; }
 
     public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
